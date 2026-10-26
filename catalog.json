@@ -1,386 +1,182 @@
 [
   {
-    "id": "bombillas-01",
+    "id": 1,
     "name": "Bombilla emergencia 9W — Igoto IG-BLRCS9W",
-    "category": "bombillas",
+    "description": "El Igoto - Bombillo LED Bulbo 9W Recargable 7 Horas es una solución innovadora y eficiente para la iluminación. Este bombillo ha sido diseñado específicamente para ofrecer una luz de alta calidad, al mismo tiempo que proporciona una mayor durabilidad y una eficiencia energética superior en comparación con las bombillas convencionales. Su versatilidad lo convierte en un elemento ideal tanto para aplicaciones residenciales como comerciales",
+    "specifications": "",
     "price": 8.6,
-    "image": "bombillas-01-720.webp",
-    "thumbnail": "bombillas-01-360.webp",
-    "facts": [
-      {
-        "label": "Potencia indicada",
-        "value": "9W"
-      }
-    ],
-    "notes": [
-      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
-      "El archivo no incluye características adicionales."
-    ],
-    "available": null
+    "category": "bombillas",
+    "image": "assets/product-01.webp",
+    "needsReview": false
   },
   {
-    "id": "bombillas-02",
+    "id": 2,
     "name": "Bombilla emergencia E27 9W — Lucerna 2102939",
-    "category": "bombillas",
+    "description": "Innovador bombillo LED de Emergencia de 9W que funciona como una bombilla estándar y, ante un corte de energía, se activa automáticamente para seguir iluminando gracias a su batería interna recargable.",
+    "specifications": "",
     "price": 3.27,
-    "image": "bombillas-02-720.webp",
-    "thumbnail": "bombillas-02-360.webp",
-    "facts": [
-      {
-        "label": "Potencia indicada",
-        "value": "9W"
-      },
-      {
-        "label": "Base indicada",
-        "value": "E27"
-      }
-    ],
-    "notes": [
-      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
-      "El archivo no incluye características adicionales."
-    ],
-    "available": null
+    "category": "bombillas",
+    "image": "assets/product-02.webp",
+    "needsReview": false
   },
   {
-    "id": "bombillas-03",
+    "id": 3,
     "name": "Bombilla emergencia E27 12W — Sin marca; referencia Coco 684612",
-    "category": "bombillas",
+    "description": "Bombillo LED de Emergencia",
+    "specifications": "",
     "price": 9.65,
-    "image": "bombillas-03-720.webp",
-    "thumbnail": "bombillas-03-360.webp",
-    "facts": [
-      {
-        "label": "Potencia indicada",
-        "value": "12W"
-      },
-      {
-        "label": "Base indicada",
-        "value": "E27"
-      }
-    ],
-    "notes": [
-      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
-      "El archivo no incluye características adicionales."
-    ],
-    "available": null
+    "category": "bombillas",
+    "image": "assets/product-03.webp",
+    "needsReview": false
   },
   {
-    "id": "bombillas-04",
+    "id": 4,
     "name": "Bombilla portátil USB 30W — Wales 30W",
-    "category": "bombillas",
+    "description": "Bombillo de Emergencia Recargable USB 30W Wales, con conexión USB y gancho para colgar, ideal para emergencias y portabilidad. Proporciona una iluminación potente y eficiente, perfecto para usar en cualquier área que necesite luz en situaciones de emergencia o actividades al aire libre. Fácil de recargar y usar, este bombillo es una solución práctica y versátil.",
+    "specifications": "",
     "price": 4.41,
-    "image": "bombillas-04-720.webp",
-    "thumbnail": "bombillas-04-360.webp",
-    "facts": [
-      {
-        "label": "Potencia indicada",
-        "value": "30W"
-      },
-      {
-        "label": "Conexión / función indicada",
-        "value": "USB"
-      }
-    ],
-    "notes": [
-      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
-      "El archivo no incluye características adicionales."
-    ],
-    "available": null
-  },
-  {
-    "id": "bombillas-05",
-    "name": "Bombilla portátil USB 80W — DuraLED DL076B",
     "category": "bombillas",
+    "image": "assets/product-04.webp",
+    "needsReview": false
+  },
+  {
+    "id": 5,
+    "name": "Bombilla portátil USB 80W — DuraLED DL076B",
+    "description": "Bombillo LED recargable DuraLED equipado con gancho de sujeción e interruptor integrado, diseñado para brindar iluminación portatil de alta eficiencia durante apagones o actividades al aire libre, garantizando bajo consumo energético, fácil transporte y excelente durabilidad.",
+    "specifications": "",
     "price": 11.99,
-    "image": "bombillas-05-720.webp",
-    "thumbnail": "bombillas-05-360.webp",
-    "facts": [
-      {
-        "label": "Potencia indicada",
-        "value": "80W"
-      },
-      {
-        "label": "Conexión / función indicada",
-        "value": "USB"
-      }
-    ],
-    "notes": [
-      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
-      "El archivo no incluye características adicionales."
-    ],
-    "available": null
+    "category": "bombillas",
+    "image": "assets/product-05.webp",
+    "needsReview": false
   },
   {
-    "id": "mini-ups-06",
+    "id": 6,
     "name": "Mini UPS 8000 mAh — Hikvision DS-UPS18D-Z",
-    "category": "mini-ups",
+    "description": "Diseñado para mantener encendidos tus dispositivos de red (como routers, módems y cámaras de seguridad) durante los cortes de energía)",
+    "specifications": "Potencia\n8000 mAh — 5V / 9V / 12V\nAutonomía: Hasta 5,5 h\nConmutación: Menos de 10 ms\nGarantía: 30 días\nCategoría: Mini UPS",
     "price": 59.99,
-    "image": "mini-ups-06-720.webp",
-    "thumbnail": "mini-ups-06-360.webp",
-    "facts": [
-      {
-        "label": "Capacidad indicada",
-        "value": "8000 mAh"
-      }
-    ],
-    "notes": [
-      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
-      "Las características del archivo describen una bombilla con gancho y no corresponden al UPS. Se excluyeron de esta ficha."
-    ],
-    "available": null
+    "category": "mini-ups",
+    "image": "assets/product-06.webp",
+    "needsReview": false
   },
   {
-    "id": "mini-ups-07",
+    "id": 7,
     "name": "Mini UPS 10000 mAh — Marsriva KP3",
-    "category": "mini-ups",
+    "description": "Es un sistema de alimentación ininterrumpida de corriente continua (DC) diseñado para mantener encendidos routers de internet, módems (de fibra óptica o tradicionales), puntos de venta y cámaras de seguridad durante los cortes de luz",
+    "specifications": "\nCapacidad de Batería        10,000 mAh (Equivalente a 36Wh / 37Wh según el modelo)\nTipo de Batería        Iones de litio de alta calidad\nPotencia de Salida Máxima        18 Watts\nTiempo de Transferencia        0 milisegundos (0 ms): El cambio a batería es instantáneo, evitando que el internet se reinicie o se corte.\nAutonomía Estimada        De 4 a 8 horas de respaldo, dependiendo directamente del consumo de los equipos conectados.\nSeguridad        Carcasa de plástico retardante de llama (clasificación V-0) y protección integrada contra sobrecargas o cortocircuitos.\n",
     "price": 60.75,
-    "image": "mini-ups-07-720.webp",
-    "thumbnail": "mini-ups-07-360.webp",
-    "facts": [
-      {
-        "label": "Capacidad indicada",
-        "value": "10000 mAh"
-      }
-    ],
-    "notes": [
-      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
-      "Autonomía, compatibilidad y otras afirmaciones del proveedor requieren verificación; no se usan como promesa de rendimiento."
-    ],
-    "available": null
+    "category": "mini-ups",
+    "image": "assets/product-07.webp",
+    "needsReview": false
   },
   {
-    "id": "mini-ups-08",
+    "id": 8,
     "name": "Mini UPS 12000 mAh PoE — Begprod",
-    "category": "mini-ups",
+    "description": "Dispositivo de respaldo de energía compacto diseñado para mantener funcionando routers, módems, ONTs y antenas durante cortes de luz",
+    "specifications": "• Capacidad de Batería: 12,000 mAh, generalmente integrada con celdas de tecnología LiFePO4 de alta durabilidad. Potencia Máxima: 18W. • Salidas DC de 5V, 9V y 12V.\n• Puerto USB 5V para cargar dispositivos móviles.\n• Puerto PoE (Power over Ethernet) para alimentar antenas inalámbricas o dispositivos compatibles (como equipos Ubiquiti o Mimosa)\n• Autonomía: De 6 a 8 horas de respaldo continuo (varía según el consumo de los equipos conectados).",
     "price": 54.99,
-    "image": "mini-ups-08-720.webp",
-    "thumbnail": "mini-ups-08-360.webp",
-    "facts": [
-      {
-        "label": "Capacidad indicada",
-        "value": "12000 mAh"
-      },
-      {
-        "label": "Conexión / función indicada",
-        "value": "PoE"
-      }
-    ],
-    "notes": [
-      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
-      "Autonomía, compatibilidad y otras afirmaciones del proveedor requieren verificación; no se usan como promesa de rendimiento."
-    ],
-    "available": null
-  },
-  {
-    "id": "mini-ups-09",
-    "name": "Mini UPS 20000 mAh — DC1018P, 18W",
     "category": "mini-ups",
+    "image": "assets/product-08.webp",
+    "needsReview": false
+  },
+  {
+    "id": 9,
+    "name": "Mini UPS 20000 mAh — DC1018P, 18W",
+    "description": "Es una fuente de alimentación ininterrumpida compacta diseñada para mantener routers, módems, ONTs de fibra óptica y cámaras de seguridad encendidos durante los cortes de energía",
+    "specifications": "Gran capacidad (20,000 mAh): Ofrece una autonomía extendida, permitiendo que tu equipo trabaje por varias horas sin electricidad.\nSalidas múltiples: Incluye diferentes puertos de voltaje (normalmente 5V, 9V y 12V), lo que la hace compatible con casi todos los routers, módems, cámaras Wi-Fi y puntos de venta.\nInstalación inmediata: Es “conectar y listo”. No requiere configuraciones; el dispositivo detecta el corte de luz y entra en acción automáticamente.\nCompacta y segura: Es pequeña y fácil de ubicar cerca de tu modem, con protección contra sobrecargas y cortocircuitos.",
     "price": 59.99,
-    "image": "mini-ups-09-720.webp",
-    "thumbnail": "mini-ups-09-360.webp",
-    "facts": [
-      {
-        "label": "Capacidad indicada",
-        "value": "20000 mAh"
-      },
-      {
-        "label": "Potencia indicada",
-        "value": "18W"
-      }
-    ],
-    "notes": [
-      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
-      "Autonomía, compatibilidad y otras afirmaciones del proveedor requieren verificación; no se usan como promesa de rendimiento."
-    ],
-    "available": null
+    "category": "mini-ups",
+    "image": "assets/product-09.webp",
+    "needsReview": false
   },
   {
-    "id": "ventiladores-10",
+    "id": 10,
     "name": "Mini ventilador portatil recargable",
-    "category": "ventiladores",
+    "description": "- Ventilador portátil\n\n- MINI FAN\n\n- RECARGABLE\n\n- CONTIENE CABLE USB\n\n- EXCELENTE CALIDAD",
+    "specifications": "",
     "price": 10.48,
-    "image": "ventiladores-10-720.webp",
-    "thumbnail": "ventiladores-10-360.webp",
-    "facts": [],
-    "notes": [
-      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
-      "El archivo no incluye descripción."
-    ],
-    "available": null
+    "category": "ventiladores",
+    "image": "assets/product-10.webp",
+    "needsReview": false
   },
   {
-    "id": "ventiladores-11",
+    "id": 11,
     "name": "Ventilador con luz recargable 6 pulgadas — Polartek LH-00003736",
-    "category": "ventiladores",
+    "description": "Ideal para acompañarte en tu hogar o en tus aventuras al aire libre, cuenta con un diseño compacto que facilita su traslado y una batería de larga duración diseñada para ofrecer comodidad durante horas.",
+    "specifications": "",
     "price": 20.0,
-    "image": "ventiladores-11-720.webp",
-    "thumbnail": "ventiladores-11-360.webp",
-    "facts": [
-      {
-        "label": "Tamaño indicado",
-        "value": "6 pulgadas"
-      }
-    ],
-    "notes": [
-      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
-      "El archivo no incluye descripción."
-    ],
-    "available": null
+    "category": "ventiladores",
+    "image": "assets/product-11.webp",
+    "needsReview": false
   },
   {
-    "id": "ventiladores-12",
+    "id": 12,
     "name": "Ventilador recargable USB 6 pulgadas — Premier",
-    "category": "ventiladores",
+    "description": "Ventilador portátil Premier. Diseñado para ofrecer la máxima versatilidad, este equipo de seis pulgadas cuenta con una potente batería recargable mediante conexión USB, convirtiéndose en el compañero ideal para oficinas, habitaciones o actividades al aire libre durante los días más calurosos",
+    "specifications": "",
     "price": 28.0,
-    "image": "ventiladores-12-720.webp",
-    "thumbnail": "ventiladores-12-360.webp",
-    "facts": [
-      {
-        "label": "Tamaño indicado",
-        "value": "6 pulgadas"
-      },
-      {
-        "label": "Conexión / función indicada",
-        "value": "USB"
-      }
-    ],
-    "notes": [
-      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
-      "El archivo no incluye descripción."
-    ],
-    "available": null
+    "category": "ventiladores",
+    "image": "assets/product-12.webp",
+    "needsReview": false
   },
   {
-    "id": "ventiladores-13",
+    "id": 13,
     "name": "Ventilador recargable 12 pulgadas",
-    "category": "ventiladores",
+    "description": "",
+    "specifications": "",
     "price": 52.0,
-    "image": "ventiladores-13-720.webp",
-    "thumbnail": "ventiladores-13-360.webp",
-    "facts": [
-      {
-        "label": "Tamaño indicado",
-        "value": "12 pulgadas"
-      }
-    ],
-    "notes": [
-      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
-      "El archivo no incluye descripción.",
-      "El archivo no incluye características adicionales."
-    ],
-    "available": null
+    "category": "ventiladores",
+    "image": "assets/product-13.webp",
+    "needsReview": false
   },
   {
-    "id": "ventiladores-14",
+    "id": 14,
     "name": "Abanico recargable de pie SANKEY",
-    "category": "ventiladores",
+    "description": "Tipo: Abanico de pie recargable.\nPotencia: Motor eficiente para un flujo de aire constante.\nBatería: Batería recargable de larga duración.\nVelocidades: Varias velocidades ajustables para diferentes niveles de aire.\nDiseño: Base estable y ajustable en altura.\nPortabilidad: Fácil de mover y usar en distintos lugares.\nFuncionamiento: Hasta varias horas de uso continuo con carga completa.\nTamaño: Ideal para uso doméstico o en espacios pequeños.\nCarga: Tiempo de recarga rápido y práctico.",
+    "specifications": "",
     "price": 70.0,
-    "image": "ventiladores-14-720.webp",
-    "thumbnail": "ventiladores-14-360.webp",
-    "facts": [],
-    "notes": [
-      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
-      "El archivo no incluye descripción.",
-      "Autonomía, compatibilidad y otras afirmaciones del proveedor requieren verificación; no se usan como promesa de rendimiento."
-    ],
-    "available": null
-  },
-  {
-    "id": "ventiladores-15",
-    "name": "Abanico Recargable De Escritorio De 6\" Con Y Pantalla LED",
     "category": "ventiladores",
+    "image": "assets/product-14.webp",
+    "needsReview": false
+  },
+  {
+    "id": 15,
+    "name": "Abanico Recargable De Escritorio De 6\" Con Y Pantalla LED",
+    "description": "Abanico Recargable De Escritorio De 6'''' Con Y Pantalla LED. Ventilador Portátil De 100 Velocidades Y Motor Ice Feel. 7V. 5W\n\n- Ventilador portátil de escritorio, mesa, pared y clip multiusos ideal para el hogar y la oficina en Panamá.\n- Motor Ice-Feel de alta potencia con sensación de aire frío\n- Pantalla LED inteligente con 100 velocidades ajustables que muestran en tiempo real la energía y la intensidad del viento.\n- Batería recargable de larga duración de hasta 24 horas para uso continuo sin interrupciones.\n- Diseño con giro de 360° vertical y horizontal para máxima cobertura y frescura en cualquier ángulo.\n-Funcionamiento silencioso con motor sin escobillas y sistema de reducción de ruido, perfecto para dormir o trabajar.\n- Fabricado en ABS con componentes electrónicos de alta resistencia y tamaño compacto 21.1×16.5×12.8 cm.",
+    "specifications": "",
     "price": 25.0,
-    "image": "ventiladores-15-720.webp",
-    "thumbnail": "ventiladores-15-360.webp",
-    "facts": [],
-    "notes": [
-      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
-      "El archivo no incluye descripción.",
-      "Autonomía, compatibilidad y otras afirmaciones del proveedor requieren verificación; no se usan como promesa de rendimiento."
-    ],
-    "available": null
+    "category": "ventiladores",
+    "image": "assets/product-15.webp",
+    "needsReview": false
   },
   {
-    "id": "power-banks-16",
+    "id": 16,
     "name": "Power Bank de 10,000 mAh con QC y PD, 2 salidas USB y 1 USB C",
-    "category": "power-banks",
+    "description": "Carga al 100% tu celular hasta 4 veces o tu tablet al 100%\nAlta capacidad: 10,000 mAh\nCarga 2 dispositivos al mismo tiempo\nSalida USB C PD: Entrega hasta 18 W\nSalida USB Turbo Charge: Entrega hasta 3 A\nSalida USB estándar: Entrega hasta 2,1 A\nIncluye cable para Android (USB a micro USB)",
+    "specifications": "",
     "price": 29.99,
-    "image": "power-banks-16-720.webp",
-    "thumbnail": "power-banks-16-360.webp",
-    "facts": [
-      {
-        "label": "Capacidad indicada",
-        "value": "10,000 mAh"
-      },
-      {
-        "label": "Conexión / función indicada",
-        "value": "USB"
-      },
-      {
-        "label": "Conexión / función indicada",
-        "value": "QC"
-      },
-      {
-        "label": "Conexión / función indicada",
-        "value": "PD"
-      }
-    ],
-    "notes": [
-      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
-      "El archivo no incluye descripción.",
-      "Autonomía, compatibilidad y otras afirmaciones del proveedor requieren verificación; no se usan como promesa de rendimiento."
-    ],
-    "available": null
+    "category": "power-banks",
+    "image": "assets/product-16.webp",
+    "needsReview": false
   },
   {
-    "id": "power-banks-17",
+    "id": 17,
     "name": "Power Bank Cargador 20000 Mah Carga Rápida 22.5W. Batería Portátil Con Pantalla Digital. Doble Puerto USB Y Entradas USB-C Y Micro USB",
-    "category": "power-banks",
+    "description": "Power bank de 20000 mAh con tecnología de carga rápida 22.5w\n\n- Diseño con dos salidas USB y dos entradas (Tipo-C y Micro USB).\n- Pantalla digital LED que muestra el porcentaje de carga en tiempo real.\n- Chip inteligente integrado con protección múltiple contra sobrecarga y sobrecalentamiento.\n- Compatible con teléfonos, tablets, auriculares y otros dispositivos USB.\n- Carcasa resistente y diseño elegante, ideal para uso diario o viajes.\n- Permite cargar distintos dispositivos simultáneamente con máxima eficiencia.",
+    "specifications": "",
     "price": 29.99,
-    "image": "power-banks-17-720.webp",
-    "thumbnail": "power-banks-17-360.webp",
-    "facts": [
-      {
-        "label": "Capacidad indicada",
-        "value": "20000 Mah"
-      },
-      {
-        "label": "Potencia indicada",
-        "value": "22.5W"
-      },
-      {
-        "label": "Conexión / función indicada",
-        "value": "USB"
-      }
-    ],
-    "notes": [
-      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
-      "El archivo no incluye descripción."
-    ],
-    "available": null
+    "category": "power-banks",
+    "image": "assets/product-17.webp",
+    "needsReview": false
   },
   {
-    "id": "power-banks-18",
+    "id": 18,
     "name": "Power Bank Baseus 30000 mAh 15W",
-    "category": "power-banks",
+    "description": "La Power Bank Baseus de 30.000 mAh ofrece una capacidad masiva para cargar múltiples dispositivos varias veces sin preocuparte por quedarte sin energía. Incorpora tecnología Power Delivery de 15 W para una carga rápida y eficiente, mientras que su pantalla digital muestra con precisión el nivel restante de batería. Permite cargar hasta 3 dispositivos simultáneamente, ideal para viajes, trabajo o uso diario.",
+    "specifications": "",
     "price": 64.99,
-    "image": "power-banks-18-720.webp",
-    "thumbnail": "power-banks-18-360.webp",
-    "facts": [
-      {
-        "label": "Capacidad indicada",
-        "value": "30000 mAh"
-      },
-      {
-        "label": "Potencia indicada",
-        "value": "15W"
-      }
-    ],
-    "notes": [
-      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
-      "El archivo no incluye descripción.",
-      "Autonomía, compatibilidad y otras afirmaciones del proveedor requieren verificación; no se usan como promesa de rendimiento."
-    ],
-    "available": null
+    "category": "power-banks",
+    "image": "assets/product-18.webp",
+    "needsReview": false
   }
 ]
