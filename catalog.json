@@ -1,0 +1,386 @@
+[
+  {
+    "id": "bombillas-01",
+    "name": "Bombilla emergencia 9W — Igoto IG-BLRCS9W",
+    "category": "bombillas",
+    "price": 8.6,
+    "image": "bombillas-01-720.webp",
+    "thumbnail": "bombillas-01-360.webp",
+    "facts": [
+      {
+        "label": "Potencia indicada",
+        "value": "9W"
+      }
+    ],
+    "notes": [
+      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
+      "El archivo no incluye características adicionales."
+    ],
+    "available": null
+  },
+  {
+    "id": "bombillas-02",
+    "name": "Bombilla emergencia E27 9W — Lucerna 2102939",
+    "category": "bombillas",
+    "price": 3.27,
+    "image": "bombillas-02-720.webp",
+    "thumbnail": "bombillas-02-360.webp",
+    "facts": [
+      {
+        "label": "Potencia indicada",
+        "value": "9W"
+      },
+      {
+        "label": "Base indicada",
+        "value": "E27"
+      }
+    ],
+    "notes": [
+      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
+      "El archivo no incluye características adicionales."
+    ],
+    "available": null
+  },
+  {
+    "id": "bombillas-03",
+    "name": "Bombilla emergencia E27 12W — Sin marca; referencia Coco 684612",
+    "category": "bombillas",
+    "price": 9.65,
+    "image": "bombillas-03-720.webp",
+    "thumbnail": "bombillas-03-360.webp",
+    "facts": [
+      {
+        "label": "Potencia indicada",
+        "value": "12W"
+      },
+      {
+        "label": "Base indicada",
+        "value": "E27"
+      }
+    ],
+    "notes": [
+      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
+      "El archivo no incluye características adicionales."
+    ],
+    "available": null
+  },
+  {
+    "id": "bombillas-04",
+    "name": "Bombilla portátil USB 30W — Wales 30W",
+    "category": "bombillas",
+    "price": 4.41,
+    "image": "bombillas-04-720.webp",
+    "thumbnail": "bombillas-04-360.webp",
+    "facts": [
+      {
+        "label": "Potencia indicada",
+        "value": "30W"
+      },
+      {
+        "label": "Conexión / función indicada",
+        "value": "USB"
+      }
+    ],
+    "notes": [
+      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
+      "El archivo no incluye características adicionales."
+    ],
+    "available": null
+  },
+  {
+    "id": "bombillas-05",
+    "name": "Bombilla portátil USB 80W — DuraLED DL076B",
+    "category": "bombillas",
+    "price": 11.99,
+    "image": "bombillas-05-720.webp",
+    "thumbnail": "bombillas-05-360.webp",
+    "facts": [
+      {
+        "label": "Potencia indicada",
+        "value": "80W"
+      },
+      {
+        "label": "Conexión / función indicada",
+        "value": "USB"
+      }
+    ],
+    "notes": [
+      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
+      "El archivo no incluye características adicionales."
+    ],
+    "available": null
+  },
+  {
+    "id": "mini-ups-06",
+    "name": "Mini UPS 8000 mAh — Hikvision DS-UPS18D-Z",
+    "category": "mini-ups",
+    "price": 59.99,
+    "image": "mini-ups-06-720.webp",
+    "thumbnail": "mini-ups-06-360.webp",
+    "facts": [
+      {
+        "label": "Capacidad indicada",
+        "value": "8000 mAh"
+      }
+    ],
+    "notes": [
+      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
+      "Las características del archivo describen una bombilla con gancho y no corresponden al UPS. Se excluyeron de esta ficha."
+    ],
+    "available": null
+  },
+  {
+    "id": "mini-ups-07",
+    "name": "Mini UPS 10000 mAh — Marsriva KP3",
+    "category": "mini-ups",
+    "price": 60.75,
+    "image": "mini-ups-07-720.webp",
+    "thumbnail": "mini-ups-07-360.webp",
+    "facts": [
+      {
+        "label": "Capacidad indicada",
+        "value": "10000 mAh"
+      }
+    ],
+    "notes": [
+      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
+      "Autonomía, compatibilidad y otras afirmaciones del proveedor requieren verificación; no se usan como promesa de rendimiento."
+    ],
+    "available": null
+  },
+  {
+    "id": "mini-ups-08",
+    "name": "Mini UPS 12000 mAh PoE — Begprod",
+    "category": "mini-ups",
+    "price": 54.99,
+    "image": "mini-ups-08-720.webp",
+    "thumbnail": "mini-ups-08-360.webp",
+    "facts": [
+      {
+        "label": "Capacidad indicada",
+        "value": "12000 mAh"
+      },
+      {
+        "label": "Conexión / función indicada",
+        "value": "PoE"
+      }
+    ],
+    "notes": [
+      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
+      "Autonomía, compatibilidad y otras afirmaciones del proveedor requieren verificación; no se usan como promesa de rendimiento."
+    ],
+    "available": null
+  },
+  {
+    "id": "mini-ups-09",
+    "name": "Mini UPS 20000 mAh — DC1018P, 18W",
+    "category": "mini-ups",
+    "price": 59.99,
+    "image": "mini-ups-09-720.webp",
+    "thumbnail": "mini-ups-09-360.webp",
+    "facts": [
+      {
+        "label": "Capacidad indicada",
+        "value": "20000 mAh"
+      },
+      {
+        "label": "Potencia indicada",
+        "value": "18W"
+      }
+    ],
+    "notes": [
+      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
+      "Autonomía, compatibilidad y otras afirmaciones del proveedor requieren verificación; no se usan como promesa de rendimiento."
+    ],
+    "available": null
+  },
+  {
+    "id": "ventiladores-10",
+    "name": "Mini ventilador portatil recargable",
+    "category": "ventiladores",
+    "price": 10.48,
+    "image": "ventiladores-10-720.webp",
+    "thumbnail": "ventiladores-10-360.webp",
+    "facts": [],
+    "notes": [
+      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
+      "El archivo no incluye descripción."
+    ],
+    "available": null
+  },
+  {
+    "id": "ventiladores-11",
+    "name": "Ventilador con luz recargable 6 pulgadas — Polartek LH-00003736",
+    "category": "ventiladores",
+    "price": 20.0,
+    "image": "ventiladores-11-720.webp",
+    "thumbnail": "ventiladores-11-360.webp",
+    "facts": [
+      {
+        "label": "Tamaño indicado",
+        "value": "6 pulgadas"
+      }
+    ],
+    "notes": [
+      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
+      "El archivo no incluye descripción."
+    ],
+    "available": null
+  },
+  {
+    "id": "ventiladores-12",
+    "name": "Ventilador recargable USB 6 pulgadas — Premier",
+    "category": "ventiladores",
+    "price": 28.0,
+    "image": "ventiladores-12-720.webp",
+    "thumbnail": "ventiladores-12-360.webp",
+    "facts": [
+      {
+        "label": "Tamaño indicado",
+        "value": "6 pulgadas"
+      },
+      {
+        "label": "Conexión / función indicada",
+        "value": "USB"
+      }
+    ],
+    "notes": [
+      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
+      "El archivo no incluye descripción."
+    ],
+    "available": null
+  },
+  {
+    "id": "ventiladores-13",
+    "name": "Ventilador recargable 12 pulgadas",
+    "category": "ventiladores",
+    "price": 52.0,
+    "image": "ventiladores-13-720.webp",
+    "thumbnail": "ventiladores-13-360.webp",
+    "facts": [
+      {
+        "label": "Tamaño indicado",
+        "value": "12 pulgadas"
+      }
+    ],
+    "notes": [
+      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
+      "El archivo no incluye descripción.",
+      "El archivo no incluye características adicionales."
+    ],
+    "available": null
+  },
+  {
+    "id": "ventiladores-14",
+    "name": "Abanico recargable de pie SANKEY",
+    "category": "ventiladores",
+    "price": 70.0,
+    "image": "ventiladores-14-720.webp",
+    "thumbnail": "ventiladores-14-360.webp",
+    "facts": [],
+    "notes": [
+      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
+      "El archivo no incluye descripción.",
+      "Autonomía, compatibilidad y otras afirmaciones del proveedor requieren verificación; no se usan como promesa de rendimiento."
+    ],
+    "available": null
+  },
+  {
+    "id": "ventiladores-15",
+    "name": "Abanico Recargable De Escritorio De 6\" Con Y Pantalla LED",
+    "category": "ventiladores",
+    "price": 25.0,
+    "image": "ventiladores-15-720.webp",
+    "thumbnail": "ventiladores-15-360.webp",
+    "facts": [],
+    "notes": [
+      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
+      "El archivo no incluye descripción.",
+      "Autonomía, compatibilidad y otras afirmaciones del proveedor requieren verificación; no se usan como promesa de rendimiento."
+    ],
+    "available": null
+  },
+  {
+    "id": "power-banks-16",
+    "name": "Power Bank de 10,000 mAh con QC y PD, 2 salidas USB y 1 USB C",
+    "category": "power-banks",
+    "price": 29.99,
+    "image": "power-banks-16-720.webp",
+    "thumbnail": "power-banks-16-360.webp",
+    "facts": [
+      {
+        "label": "Capacidad indicada",
+        "value": "10,000 mAh"
+      },
+      {
+        "label": "Conexión / función indicada",
+        "value": "USB"
+      },
+      {
+        "label": "Conexión / función indicada",
+        "value": "QC"
+      },
+      {
+        "label": "Conexión / función indicada",
+        "value": "PD"
+      }
+    ],
+    "notes": [
+      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
+      "El archivo no incluye descripción.",
+      "Autonomía, compatibilidad y otras afirmaciones del proveedor requieren verificación; no se usan como promesa de rendimiento."
+    ],
+    "available": null
+  },
+  {
+    "id": "power-banks-17",
+    "name": "Power Bank Cargador 20000 Mah Carga Rápida 22.5W. Batería Portátil Con Pantalla Digital. Doble Puerto USB Y Entradas USB-C Y Micro USB",
+    "category": "power-banks",
+    "price": 29.99,
+    "image": "power-banks-17-720.webp",
+    "thumbnail": "power-banks-17-360.webp",
+    "facts": [
+      {
+        "label": "Capacidad indicada",
+        "value": "20000 Mah"
+      },
+      {
+        "label": "Potencia indicada",
+        "value": "22.5W"
+      },
+      {
+        "label": "Conexión / función indicada",
+        "value": "USB"
+      }
+    ],
+    "notes": [
+      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
+      "El archivo no incluye descripción."
+    ],
+    "available": null
+  },
+  {
+    "id": "power-banks-18",
+    "name": "Power Bank Baseus 30000 mAh 15W",
+    "category": "power-banks",
+    "price": 64.99,
+    "image": "power-banks-18-720.webp",
+    "thumbnail": "power-banks-18-360.webp",
+    "facts": [
+      {
+        "label": "Capacidad indicada",
+        "value": "30000 mAh"
+      },
+      {
+        "label": "Potencia indicada",
+        "value": "15W"
+      }
+    ],
+    "notes": [
+      "Disponibilidad, garantía y condiciones de entrega pendientes de confirmar.",
+      "El archivo no incluye descripción.",
+      "Autonomía, compatibilidad y otras afirmaciones del proveedor requieren verificación; no se usan como promesa de rendimiento."
+    ],
+    "available": null
+  }
+]
